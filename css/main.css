@@ -384,7 +384,7 @@ body{
 .text_sloy{
     display: none;
 }
-@media only screen and (max-width:600px){
+@media only screen and (max-width:720px){
   .main-header{
       display: none;
   }
@@ -422,7 +422,7 @@ body{
   }
   .text11{
       text-align: center;
-      background-color: #E5E5E5;
+      /* background-color: #E5E5E5; */
       width: 600px;
   }
   .text16{
